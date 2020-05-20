@@ -1,0 +1,11 @@
+html {padding:0; margin:0; width:100%; height:100%;}
+body {padding:0; margin:0; width:100%; height:100%; display: grid;}
+
+#blocklyArea {
+    width: 100%;
+    height: 100%;
+}
+
+#blocklyDiv {
+    position: absolute;
+}
